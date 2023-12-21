@@ -1,6 +1,6 @@
 # Nashville-Housing-Data-for-Data-Cleaning
 
-This case study involves comprehensive data manipulation and exploratory data analysis (EDA) using SQL. <br/>
+This case study involves comprehensive data manipulation and exploratory data analysis (EDA) using **SQL**. <br/>
 
 It demonstrates how to clean data in SQL using a Nashville housing market dataset that contains over 50,000 records. <br/>
 
