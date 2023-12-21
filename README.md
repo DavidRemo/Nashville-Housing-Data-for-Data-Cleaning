@@ -1,10 +1,16 @@
 # Nashville-Housing-Data-for-Data-Cleaning
 
-This case study involves comprehensive data manipulation and exploratory data analysis (EDA) using **SQL**. <br/>
+This project involves comprehensive data manipulation and exploratory data analysis (EDA) using **SQL**. <br/>
 
-It demonstrates how to clean data in SQL using a Nashville housing market dataset that contains over 50,000 records. <br/>
+I worked with Nashville Housing Data, a dataset containing statistics about landuse and properties in Nashville, the capital city of the U.S. state of Tennessee. <br/>
 
-Here are some data cleaning techniques for Nashville housing data: <br/>
+I used SQL in MySQL Workbench to explore and analyze data from this database.
+
+### Dataset obtained from
+* [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data) , containing 56,478 records.
+
+### Data Cleaning
+Here are some data cleaning techniques used for Nashville housing data: <br/>
 * Standardizing date formats
 * Populating missing property addresses
 * Splitting address components into separate columns for better granularity
